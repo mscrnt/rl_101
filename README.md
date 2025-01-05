@@ -24,7 +24,7 @@ This course is perfect for:
 ### Prerequisites
 Before starting the course, ensure you have the following:
 
-- A computer with Python 3.8+ installed.
+- A computer with Python 3.10+ installed.
 - Basic knowledge of how to run Python scripts (no programming experience required).
 - Jupyter Notebook installed for running interactive tutorials.
 
